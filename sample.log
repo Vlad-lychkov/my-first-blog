@@ -1,0 +1,32 @@
+INFO:django.utils.autoreload:C:\Users\lichkovvv\django\blog\views.py changed, reloading.
+ERROR:django.request:Internal Server Error: /post/1/
+Traceback (most recent call last):
+  File "C:\Users\lichkovvv\django\myenv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\lichkovvv\django\myenv\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view blog.views.post_detail didn't return an HttpResponse object. It returned None instead.
+INFO:django.utils.autoreload:C:\Users\lichkovvv\django\blog\views.py changed, reloading.
+ERROR:django.request:Internal Server Error: /post/1/
+Traceback (most recent call last):
+  File "C:\Users\lichkovvv\django\myenv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\lichkovvv\django\myenv\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view blog.views.post_detail didn't return an HttpResponse object. It returned None instead.
+INFO:django.utils.autoreload:C:\Users\lichkovvv\django\blog\views.py changed, reloading.
+ERROR:django.request:Internal Server Error: /post/1/
+Traceback (most recent call last):
+  File "C:\Users\lichkovvv\django\myenv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\lichkovvv\django\myenv\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view blog.views.post_detail didn't return an HttpResponse object. It returned None instead.
+ERROR:django.request:Internal Server Error: /post/1/
+Traceback (most recent call last):
+  File "C:\Users\lichkovvv\django\myenv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\lichkovvv\django\myenv\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view blog.views.post_detail didn't return an HttpResponse object. It returned None instead.
+INFO:django.utils.autoreload:C:\Users\lichkovvv\django\blog\views.py changed, reloading.
